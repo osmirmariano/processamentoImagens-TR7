@@ -7,4 +7,4 @@ Implemente
 Ps. Podem lidar com valores negativos. Duas opções:
 
 - Valores negativos: atribui-se 0.
-- Faz a normalização para o intervalo [0,1] ou [0, 255].
+- Faz a normalização para o intervalo [0,1] ou [0, 255]..
